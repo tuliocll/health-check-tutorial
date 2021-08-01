@@ -1,0 +1,52 @@
+{
+    "posts": [
+        {
+            "title": "Backend REST e Dashboard em minutos com Parse!",
+            "url": "https://dev.to/tuliocalil/backend-rest-e-dashboard-em-minutos-com-parse-5c72"
+        },
+        {
+            "title": "React Native ⚛️ Animation Libraries easy to use!",
+            "url": "https://dev.to/tuliocalil/react-native-animation-libraries-easy-to-use-40fi"
+        },
+        {
+            "title": "5 Awesome React Hooks ⚛️",
+            "url": "https://dev.to/tuliocalil/5-awesome-react-hooks-23jc"
+        },
+        {
+            "title": "Awesome React Native UI Kits for 2021",
+            "url": "https://dev.to/tuliocalil/awesome-react-native-ui-kits-for-2021-h8b"
+        },
+        {
+            "title": "Criando extensões para o Google Chrome com React",
+            "url": "https://dev.to/tuliocalil/criando-extensoes-para-o-google-chrome-com-react-1laa"
+        },
+        {
+            "title": "Criando serviço de envio de e-mail com ELIXIR!🔮",
+            "url": "https://dev.to/tuliocalil/criando-servico-de-envio-de-e-mail-com-elixir-2l1g"
+        },
+        {
+            "title": "React (ou Node) no Windows com WSL",
+            "url": "https://dev.to/tuliocalil/react-no-windows-com-wsl-3951"
+        },
+        {
+            "title": "Criando Readme incríveis! 📖",
+            "url": "https://dev.to/tuliocalil/criando-readme-incriveis-48h4"
+        },
+        {
+            "title": "Building the same app on React Native, Swift and Java!",
+            "url": "https://dev.to/tuliocalil/building-the-same-app-on-react-native-xcode-and-android-studio-1ch0"
+        },
+        {
+            "title": "Instalar pacotes .deb no Arch Linux (Manjaro, Reborn OS...)",
+            "url": "https://dev.to/tuliocalil/instalar-pacotes-deb-no-arch-linux-ou-manjaro-5a8l"
+        },
+        {
+            "title": "Create a summary for your forem(dev.to) posts easy and fast with Summaryze!",
+            "url": "https://dev.to/tuliocalil/create-summary-for-you-dev-to-posts-easy-and-fast-with-summaryze-3ilg"
+        },
+        {
+            "title": "Comentários no código: Dicas e melhores práticas",
+            "url": "https://dev.to/tuliocalil/comentarios-no-codigo-dicas-e-melhores-praticas-1jpm"
+        }
+    ]
+}
